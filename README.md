@@ -1,5 +1,5 @@
-# Benja OS
+# Benja Game Engine
 Benja Operating System
-Writed with Assembly, C & C++
+Writed with C++ and h
 
 Made in 2021 ~ 2022, Malaysia
